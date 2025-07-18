@@ -55,7 +55,7 @@
     <string name="no_thanks">No thanks</string>
     <string name="source_code_name" translatable="false">GitHub</string>
     <string name="license_name" translatable="false">GNU GPLv3</string>
-    <string name="author_name" translatable="false">Philipp Bobek</string>
+    <string name="author_name" translatable="false">Kai Pastor, based on Compass app by Philipp Bobek</string>
     <string name="zero_degrees" translatable="false">0°</string>
     <string name="degrees" translatable="false">%1$d°</string>
     <string name="degree_0_text" translatable="false">0</string>
@@ -70,4 +70,5 @@
     <string name="degree_270_text" translatable="false">270</string>
     <string name="degree_300_text" translatable="false">300</string>
     <string name="degree_330_text" translatable="false">330</string>
+    <string name="orienteering_compass">Orienteering Compass</string>
 </resources>

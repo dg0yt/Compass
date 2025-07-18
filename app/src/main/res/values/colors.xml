@@ -19,7 +19,7 @@
   -->
 
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
-    <color name="seed">#008577</color>
+    <color name="seed">#ffbf36</color>
     <color name="md_theme_light_primary">#006B5F</color>
     <color name="md_theme_light_onPrimary">#FFFFFF</color>
     <color name="md_theme_light_primaryContainer">#75F8E3</color>

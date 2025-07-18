@@ -69,7 +69,7 @@
 
         <variable
                 name="model"
-                type="com.bobek.compass.view.CompassViewModel" />
+                type="org.openorienteering.compass.view.CompassViewModel" />
     </data>
 
 </layout>

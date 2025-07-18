@@ -36,22 +36,10 @@
                 android:pathData="M400,150 L440,360 L400,400 Z" />
         <path
                 android:fillColor="#FFFFFF"
-                android:pathData="M650,400 L440,360 L400,400 Z" />
-        <path
-                android:fillColor="#000000"
-                android:pathData="M650,400 L440,440 L400,400 Z" />
-        <path
-                android:fillColor="#FFFFFF"
                 android:pathData="M400,650 L440,440 L400,400 Z" />
         <path
                 android:fillColor="#000000"
                 android:pathData="M400,650 L360,440 L400,400 Z" />
-        <path
-                android:fillColor="#FFFFFF"
-                android:pathData="M150,400 L360,440 L400,400 Z" />
-        <path
-                android:fillColor="#000000"
-                android:pathData="M150,400 L360,360 L400,400 Z" />
 
     </group>
 

@@ -30,11 +30,11 @@ java {
 }
 
 android {
-    namespace = "com.bobek.compass"
+    namespace = "org.openorienteering.compass"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.bobek.compass"
+        applicationId = "org.openorienteering.compass"
         minSdk = 23
         targetSdk = 36
         versionCode = 29

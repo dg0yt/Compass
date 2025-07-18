@@ -1,5 +1,5 @@
-app_package_name('com.bobek.compass')
-use_tests_in_packages(['com.bobek.compass.screengrab'])
+app_package_name('org.openorienteering.compass')
+use_tests_in_packages(['org.openorienteering.compass.screengrab'])
 
 app_apk_path('app/build/outputs/apk/debug/app-debug.apk')
 tests_apk_path('app/build/outputs/apk/androidTest/debug/app-debug-androidTest.apk')
